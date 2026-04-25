@@ -5,6 +5,9 @@ description = "Base environment for Data Science and Applied Statistics"
 authors = ["Johann Pires"]
 package-mode = false
 
+[tool.ruff]
+exclude = ["*.ipynb"]
+
 [tool.poetry.dependencies]
 python = "^3.11"
 
