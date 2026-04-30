@@ -2,3 +2,6 @@
 .pytest_cache/
 __pycache__/
 __pycache__/test_libs_installed.cpython-311-pytest-7.4.4.pyc
+pyproject.toml
+__pycache__/test_libs_installed.cpython-311-pytest-7.4.4.pyc
+.coverage
