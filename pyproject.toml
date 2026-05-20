@@ -29,7 +29,8 @@ scikit-learn = "^1.4"
 # Visualização
 
 matplotlib = "^3.8"
-seaborn = "^0.13"
+seaborn = ">=0.13.0"
+researchpy = "^0.3"
 
 # Notebooks
 
